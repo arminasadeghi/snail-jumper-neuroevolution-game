@@ -6,7 +6,7 @@
 
 Snail Jumper is a small 2D game built with `pygame` where a player character avoids falling obstacles (snails and flies). The project was designed as a course assignment to demonstrate **neuroevolution**: evolving neural-network‑controlled agents that learn to play the game automatically.
 
-![Snail Jumper](SnailJumper.png)
+<img src="SnailJumper.png" alt="Snail Jumper" width="400" />
 
 
 ## Features
